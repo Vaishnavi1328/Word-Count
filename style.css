@@ -1,0 +1,47 @@
+body{
+    margin-top: 10vh;
+    background-color: rgb(110, 177, 111);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 35%;
+    min-width: 50%;
+}
+
+textarea{
+    background-color: rgb(213, 207, 199);
+    border-radius: 1%;
+    margin-bottom: 20px;
+    max-width: 50vh;
+    max-height: 40vh;
+}
+
+#frame{
+    color:white;
+    background-color: black;
+    text-align: center;
+    max-width: 50vh;
+    padding: 1rem 2rem;
+    border-radius: 1%;
+    height: 67vh;
+}
+
+#find{
+    width:50%;
+    cursor: pointer;
+    padding:10px 15px;
+    border-radius: 1px;
+    color:rgb(42, 120, 43);
+    font-size: 20px;
+}
+
+#find:hover{
+    background-color:  rgb(110, 177, 111);
+    color:white;
+}
+
+#empty{
+    font-size: 23px;
+    color:rgb(241, 241, 238);
+    cursor: pointer;
+    text-indent: 380px;
+}
+
